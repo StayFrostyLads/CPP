@@ -2,4 +2,4 @@
 Computer Programming Portfolio
 
 
-/images/typingtest1.png
+![TypingTest](/images/typingtest1.png)
