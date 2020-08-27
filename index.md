@@ -1,7 +1,7 @@
 ## Welcome to Jack Nebeker's Computer Programming Portfolio
 
 
-![Typing Test]()
+![Typing Test](https://imgur.com/a/j69ZEiH)
 
 
 You can use the [editor on GitHub](https://github.com/StayFrostyLads/CPP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
