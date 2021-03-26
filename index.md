@@ -4,5 +4,8 @@
 
 ### SpaceGame
 OOP Game built in the Processing environment, Winter of 2020.
+
 Image of Running Space Game
+
 Source code available here.
+
