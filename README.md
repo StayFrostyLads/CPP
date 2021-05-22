@@ -1,5 +1,0 @@
-# CPP
-Computer Programming Portfolio
-
-
-
