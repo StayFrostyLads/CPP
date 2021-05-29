@@ -1,0 +1,2 @@
+int xpos, ypos, numberofGuesses;
+void display(xpos, ypos);
