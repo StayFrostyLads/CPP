@@ -1,0 +1,7 @@
+boolean play
+rowCheck();
+columnCheck();
+guessCheck();
+endCheck();
+startCheck();
+gameCheck();
