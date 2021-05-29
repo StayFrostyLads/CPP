@@ -1,0 +1,2 @@
+int xpos, ypos;
+void display(xpos, ypos);
