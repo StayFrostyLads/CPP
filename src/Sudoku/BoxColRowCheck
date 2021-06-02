@@ -1,0 +1,25 @@
+class BoxColRowCheck {
+  public:
+    // Check to see if we are able to assign a number to a given row, col and box
+      bool numberCheck(int board[N][N], int row, int col, int num)
+      {
+        // Check to see if we find the same number in a row, return false if so
+      for (int x = 0; x <= 8; x++)
+        if (board[row][x] == num)
+          return false;
+        // Check to see if we find the same number in a column, return false if so
+      for (int x = 0; x <= 8; x++)
+        if (board[x][col] == num)
+          return false;
+
+      int beginningRow = row - row % 3;
+      int beginningCol = col - col % 3;
+
+      for (int i = 0; i < 3; i++)
+        for (int j = 0; j < 3; j++)
+          if (board[i + beginningRow][j + beginningCol] == num)
+              return false;
+
+        return true;
+      }
+};
