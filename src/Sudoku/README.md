@@ -7,8 +7,4 @@ Class Diagram
 
 GUI Example
 
-![Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/gui.png)
-![Second Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/gui2.png)
-![Third Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/gui3.png)
-![Fourth Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/gui4.png)
-
+![Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokusolverguiphase2.PNG)
