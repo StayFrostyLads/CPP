@@ -1,7 +1,36 @@
-boolean play
-rowCheck();
-columnCheck();
-guessCheck();
-endCheck();
-startCheck();
-gameCheck();
+class Sudoku {
+  public:
+
+    BoxColRowCheck check;
+     
+    bool solveSudoku(int board[N][N], int row, int col) {
+      // Check to see if we have reached the 8th row and 9th column
+    if (row == N - 1 && col == N)
+        return true;
+      // Check to see if we have reached the 9th column in which case we go to the next row
+    if (col == N) {
+        row++;
+        col = 0;
+    }
+      // Check to see if the position of the board already contains a non zero value, iterate       for next column
+    if (board[row][col] != 0)
+        return solveSudoku(board, row, col + 1);
+
+     for (int num = 1; num <= N; num++)
+    {
+      // Check to see if we are allowed to place the num (1-9) in the given row and column, in      which case we move to next column
+      if (check.numberCheck(board, row, col, num))
+      {
+        board[row][col] = num;
+      // Check for next possible num for next column
+        if (solveSudoku(board, row, col + 1))
+            return true;
+      }
+      // Removing the assigned number if it can't go there and trying the next number
+      board[row][col] = 0;
+    }
+    return false;
+  }
+
+
+};
