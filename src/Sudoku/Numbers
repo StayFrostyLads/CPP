@@ -1,2 +1,0 @@
-int firstNumber, secondNumber, thirdNumber, fourthNumber, fifthNumber, sixthNumber, seventhNumber, eighthNumber, ninthNumber;
-void randomizeNumber();
