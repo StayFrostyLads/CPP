@@ -1,0 +1,13 @@
+class Display {
+ public:
+    // A function to print the grid
+    void print(int board[N][N])
+      {
+        for (int i = 0; i < N; i++)
+        {
+          for (int j = 0; j < N; j++)
+              std::cout << board[i][j] << " ";
+            std::cout << std::endl;
+        }
+      }
+};
