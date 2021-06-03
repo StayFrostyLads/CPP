@@ -5,8 +5,12 @@ Features added on 6/2/2021 - Added general Sudoku solver with example solved puz
 
 Class Diagram
 
-![Image of Class Diagram](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokuclassdiagramphase3.PNG)
+![Image of Class Diagram](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokuclassdiagramfinal.PNG)
 
 GUI Example 
 
-![Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokusolverguiphase2.PNG)
+![Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokugui1.PNG)
+
+![Second Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokugui2.PNG)
+
+![Third Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokugui4.PNG)
