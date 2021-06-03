@@ -9,7 +9,7 @@ Class Diagram
 
 ![Image of Class Diagram](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokuclassdiagramfinal.PNG)
 
-GUI Example 
+#GUI Examples
 
 General Program Output
 
