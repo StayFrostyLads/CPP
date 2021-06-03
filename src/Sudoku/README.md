@@ -11,8 +11,11 @@ Class Diagram
 
 GUI Example 
 
+Entering an invalid Sudoku puzzle that is unsolvable
 ![Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokugui1.PNG)
 
+Entering an invalid Sudoku puzzle with non integers
 ![Second Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokugui2.PNG)
 
+Entering a valid Sudoku puzzle
 ![Third Image of GUI](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokugui4.PNG)
