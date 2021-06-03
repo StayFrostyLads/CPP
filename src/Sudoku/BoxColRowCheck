@@ -20,6 +20,6 @@ class BoxColRowCheck {
           if (board[i + beginningRow][j + beginningCol] == num)
               return false;
 
-        return true;
+      return true;
       }
 };
