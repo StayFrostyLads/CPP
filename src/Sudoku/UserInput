@@ -1,0 +1,9 @@
+class UserInput {
+  public:
+
+    void inputSudoku(int userBoard[N][N]) {
+        for (int i = 0; i < N; i++)
+          for (int j = 0; j < N; j++)
+            std::cin >> userBoard[i][j];
+    }
+};
