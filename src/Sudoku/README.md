@@ -2,6 +2,8 @@
 Written in C++ by Jack Nebeker
 
 Features added on 6/2/2021 - Added general Sudoku solver with example solved puzzle
+                           - Added user input Sudoku solver and cleaned up general look
+                           - Adjusted UML Diagram to match changes
 
 Class Diagram
 
