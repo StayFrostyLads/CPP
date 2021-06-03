@@ -39,4 +39,9 @@ Project oriented around accessing and writing to a file, Spring of 2021
 
 Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/SequentialFileAccess). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/SequentialFileAccess/SequentialFileAccess.zip).
 
-### 
+### Sudoku Clone
+Final programming project based around OOP, Spring of 2021
+
+![Image of Running FinalProject](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokugui1.PNG)
+
+Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/Sudoku). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/Sudoku/FinalProject.zip).
