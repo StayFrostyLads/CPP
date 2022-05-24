@@ -19,14 +19,14 @@ Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages
 ### Cars
 OOP display built in the Processing environment, Winter of 2020
 
-![Image of Running Cars](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/cars.PNG)
+![Image of Running Cars](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/cars.PNG?raw=true)
 
 Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/CARS). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/CARS/application.windows64.zip).
 
 ### EtchASketch
 OOP Game built in the Processing environment, Winter of 2020
 
-![Image of Running EtchASketch](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/etchasketch.PNG)
+![Image of Running EtchASketch](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/etchasketch.PNG?raw=true)
 
 Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/EtchASketch). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/EtchASketch/application.windows64.zip).
 
@@ -35,14 +35,14 @@ Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages
 ### Sequential File Access
 Project oriented around accessing and writing to a file, Spring of 2021
 
-![Image of Running SequentialFileAccess](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sequentialfileaccess.PNG)
+![Image of Running SequentialFileAccess](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sequentialfileaccess.PNG?raw=true)
 
 Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/SequentialFileAccess). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/SequentialFileAccess/SequentialFileAccess.zip).
 
 ### Sudoku Clone
 Final programming project based around OOP, Spring of 2021
 
-![Image of Running FinalProject](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokugui1.PNG)
+![Image of Running FinalProject](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokugui1.PNG?raw=true)
 
 Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/Sudoku). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/Sudoku/FinalProject.zip).
 
@@ -51,7 +51,7 @@ Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages
 ### Drawing Fourier Series For You!
 Images Drawn using Fourier Series via a Fourier Transform Method, Spring of 2022
 
-![Image of Zelda Triforce Symbol](https://github.com/StayFrostyLads/2022IndividualProject/blob/main/assets/fouriergraphic.PNG)
+![Image of Zelda Triforce Symbol](https://github.com/StayFrostyLads/2022IndividualProject/blob/main/assets/fouriergraphic.PNG?raw=true)
 
 Source code [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/FourierSeries). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/FourierSeries/Fourier.jar).
 
