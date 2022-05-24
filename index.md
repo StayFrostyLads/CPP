@@ -1,4 +1,4 @@
-# Jack Nebeker's Programming Portfolio 2021
+# Jack Nebeker's Programming Portfolio 2022
 Jack Nebeker [Email](mailto:thejacknebeker@gmail.com)
 ## Processing Projects in Java
 
@@ -45,3 +45,10 @@ Final programming project based around OOP, Spring of 2021
 ![Image of Running FinalProject](https://github.com/StayFrostyLads/CPP/blob/gh-pages/images/sudokugui1.PNG)
 
 Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/Sudoku). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/Sudoku/FinalProject.zip).
+
+### Drawing Fourier Series For You!
+Images Drawn using Fourier Series via a Fourier Transform Method, Spring of 2022
+
+![Image of Zelda Triforce Symbol](https://github.com/StayFrostyLads/2022IndividualProject/blob/main/assets/fouriergraphic.PNG)
+
+Source code [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/FourierSeries). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/FourierSeries/Fourier.jar).
