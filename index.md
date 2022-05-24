@@ -46,6 +46,8 @@ Final programming project based around OOP, Spring of 2021
 
 Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/Sudoku). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/Sudoku/FinalProject.zip).
 
+## Java Project in Eclipse and Processing
+
 ### Drawing Fourier Series For You!
 Images Drawn using Fourier Series via a Fourier Transform Method, Spring of 2022
 
