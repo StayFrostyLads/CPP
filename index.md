@@ -46,7 +46,7 @@ Final programming project based around OOP, Spring of 2021
 
 Source code available [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/Sudoku). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/Sudoku/FinalProject.zip).
 
-## Java Project in Eclipse and Processing
+## Java Projects in Eclipse
 
 ### Drawing Fourier Series For You!
 Images Drawn using Fourier Series via a Fourier Transform Method, Spring of 2022
@@ -54,3 +54,11 @@ Images Drawn using Fourier Series via a Fourier Transform Method, Spring of 2022
 ![Image of Zelda Triforce Symbol](https://github.com/StayFrostyLads/2022IndividualProject/blob/main/assets/fouriergraphic.PNG)
 
 Source code [here](https://github.com/StayFrostyLads/CPP/tree/gh-pages/src/FourierSeries). Executable for Windows available [here](https://github.com/StayFrostyLads/CPP/blob/gh-pages/src/FourierSeries/Fourier.jar).
+
+### Group Project Desert of Doom
+Single-player puzzle game, Spring of 2022
+
+![Image of Title Screen]()
+
+Source code [here](src). Executable for Windows available [here](jar).
+
